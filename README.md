@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I am Nikhileswar Behera, a Computer Science student with core<br>interests in AI/ML and Game Development<br>🧠 Exploring AI, LLMs & Machine Learning<br>🤝 Open for collaborations & internships<br>⚡ Debugging life - one error at a time
+🚀 I am Nikhileswar Behera, a Computer Science student with core interests in AI/ML and Game Development<br>🧠 Exploring AI, LLMs & Machine Learning<br>🤝 Open for collaborations & internships<br>⚡ Debugging life - one error at a time
 
 
 ## 🌐 Socials:
